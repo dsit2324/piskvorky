@@ -1,0 +1,3 @@
+C:/Users/student/Downloads/piskvorky/piskvorky/cmake-build-debug/CMakeFiles/piskvorky.dir
+C:/Users/student/Downloads/piskvorky/piskvorky/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Downloads/piskvorky/piskvorky/cmake-build-debug/CMakeFiles/rebuild_cache.dir
